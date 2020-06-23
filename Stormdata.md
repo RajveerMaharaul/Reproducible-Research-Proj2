@@ -1,6 +1,5 @@
 Storm Data Analysis - Types of Event
-Tuan Vu
-Friday, July 25, 2014
+
 
 Sysnopis
 This is an R Markdown document which is used to analyze the Storm Data based on the National Weather Service Storm Data. The document is focus in answering the two question which are:
